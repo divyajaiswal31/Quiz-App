@@ -1,7 +1,8 @@
 ## My Quiz App
 A simple and interactive quiz application built with Next.js 14, React 18, and Tailwind CSS.
 
-📌 Features
+✨ Features
+
 1.User details form (Name, Email, Technology selection)
 
 2.Technology-wise quiz (C, Java, JavaScript)
