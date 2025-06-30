@@ -2,7 +2,7 @@
 A simple and interactive quiz application built with Next.js 14, React 18, and Tailwind CSS.
 
 📌 Features
-1.User details form (Name, Email, Technology selection)
+1.User details form (Name, Email, Technology selection)/n
 2.Technology-wise quiz (C, Java, JavaScript)
 3.Timer for each question (30 seconds)
 4.Pagination and navigation between questions
