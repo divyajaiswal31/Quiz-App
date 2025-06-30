@@ -1,0 +1,130 @@
+[
+    {
+      "id": 1,
+      "technology": "C",
+      "question": "What is the size of int in C?",
+      "type": "radio",
+      "options": ["2 bytes", "4 bytes", "8 bytes"],
+      "correctAnswer": "4 bytes",
+      "timerDuration": 30
+    },
+    {
+      "id": 2,
+      "technology": "C",
+      "question": "Which loop runs at least once?",
+      "type": "radio",
+      "options": ["for", "while", "do-while"],
+      "correctAnswer": "do-while",
+      "timerDuration": 30
+    },
+    {
+      "id": 3,
+      "technology": "C",
+      "question": "What is the size of float in C?",
+      "type": "radio",
+      "options": ["2 bytes", "4 bytes", "8 bytes"],
+      "correctAnswer": "4 bytes",
+      "timerDuration": 30
+    },
+    {
+      "id": 4,
+      "technology": "C",
+      "question": "What is the size of double in C?",
+      "type": "radio",
+      "options": ["2 bytes", "4 bytes", "8 bytes"],
+      "correctAnswer": "8 bytes",
+      "timerDuration": 30
+    },
+    {
+      "id": 5,
+      "technology": "C",
+      "question": "What is the size of char in C?",
+      "type": "radio",
+      "options": ["1 bytes", "4 bytes", "8 bytes"],
+      "correctAnswer": "1 byte",
+      "timerDuration": 30
+    },
+    {
+      "id": 6,
+    "technology": "Java",
+    "question": "Which of the following is used to create an object in Java?",
+    "type": "radio",
+    "options": ["new", "create", "object"],
+    "correctAnswer": "new",
+    "timerDuration": 30
+   
+    },
+    {
+      "id": 7,
+      "technology": "Java",
+    "question": "Which method is the entry point for a Java program?",
+    "type": "radio",
+    "options": ["start()", "main()", "run()"],
+    "correctAnswer": "main()",
+    "timerDuration": 30
+    },
+    {
+      "id": 8,
+     "technology": "Java",
+    "question": "Which access modifier allows access within the same package?",
+    "type": "radio",
+    "options": ["private", "protected", "default"],
+    "correctAnswer": "default",
+    "timerDuration": 30
+    },
+    {
+      "id": 9,
+      "technology": "Java",
+    "question": "Which of the following is used for inheritance in Java?",
+    "type": "radio",
+    "options": ["extends", "implements", "inherits"],
+    "correctAnswer": "extends",
+    "timerDuration": 30
+    },
+    {
+      "id": 11,
+      "technology": "JavaScript",
+      "question": "Which company developed JavaScript?",
+      "type": "radio",
+      "options": ["Netscape", "Microsoft", "Google"],
+      "correctAnswer": "Netscape",
+      "timerDuration": 30
+    },
+    {
+      "id": 12,
+      "technology": "JavaScript",
+      "question": "Which of the following is a correct way to declare a variable in JavaScript?",
+      "type": "radio",
+      "options": ["var myVar;", "int myVar;", "declare myVar;"],
+      "correctAnswer": "var myVar;",
+      "timerDuration": 30
+    },
+    {
+      "id": 13,
+      "technology": "JavaScript",
+      "question": "Which of the following is NOT a JavaScript data type?",
+      "type": "radio",
+      "options": ["Number", "String", "Character"],
+      "correctAnswer": "Character",
+      "timerDuration": 30
+    },
+    {
+      "id": 14,
+      "technology": "JavaScript",
+      "question": "Which keyword is used to define a constant in JavaScript?",
+      "type": "radio",
+      "options": ["var", "let", "const"],
+      "correctAnswer": "const",
+      "timerDuration": 30
+    },
+    {
+      "id": 15,
+      "technology": "JavaScript",
+      "question": "Which operator is used for strict equality in JavaScript?",
+      "type": "radio",
+      "options": ["==", "===", "!="],
+      "correctAnswer": "===",
+      "timerDuration": 30
+    }
+]
+  
