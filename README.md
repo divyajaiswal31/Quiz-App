@@ -17,6 +17,6 @@ A simple and interactive quiz application built with Next.js 14, React 18, and T
 
 7.Data managed using browser LocalStorage (No backend)
 
-## for run the project simply hit this command 
+## for run the project simply hit this command to your terminal 
 npm run dev 
 
